@@ -6,10 +6,6 @@ body{
     color: white;
     font-family: 'Mulish', sans-serif;
 }
-
-
-
-
 nav{
     display: flex;
     justify-content: center;
@@ -139,6 +135,7 @@ nav .btn{
     margin-top: 53px;
 
 }
+
 
 
 
